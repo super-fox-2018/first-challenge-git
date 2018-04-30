@@ -1,5 +1,5 @@
 [//]: # (Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya)
-##Latar Belakang
+## Latar Belakang
 Pendidikan terakhir adalah gelar S1 dengan lulusan Business Information System.
  Setelah itu pernah bekerja sebagai Web developer selama 1 tahun menggunakan in-house system jadi cuma menggunakan HTML, CSS dan banyak referensi dari stackoverflow.
  Mengenai coding, ga pernah blajar JS, tp ada pendidikan basik di C++, C# dan HTMl.

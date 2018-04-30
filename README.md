@@ -10,7 +10,7 @@ I found out about it from a friend and I thought it would be a good idea to join
 
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 
-I have not yet decided whether I will apply for a job or continue my studies directly after Hacktiv8. I will likely want to use the knowledge I have obtained here to make a website that will serve as my resume, facts about me, etc., as well as a fascinating tool that differentiates me in the eyes of the Employers.
+I have not yet decided whether I will apply for a job or continue my studies directly after Hacktiv8. I will likely want to use the knowledge I have obtained here to make a website that will serve as my resume, facts about me, etc, as well as a fascinating tool that differentiates me in the eyes of the Employers.
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
 

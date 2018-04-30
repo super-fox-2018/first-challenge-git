@@ -8,7 +8,7 @@ Walau saya memiliki background IT, tapi pengalaman saya sebagai seorang develope
 
 [//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
 ## Ekspektasi
-Saya ingin developer yang percaya diri terhadap kemampuan development saya. Salah satu bidang
+Saya ingin menjadi developer yang percaya diri terhadap kemampuan development saya. Salah satu bidang
 yang saya ingin telusuri adalah front-end development bersamaan dengan UI/UX design, karena menurut saya dapat dihubungkan dengan ketertarikan saya dalam dunia design, dan menurut saya di Indonesia belum banyak yang menguasai bidang development & design secara bersamaan untuk membuat sesuatu yang groundbreaking dengan estetika yang menarik.
 
 [//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)

@@ -1,10 +1,10 @@
-[//]: # (Ceritakan sedikit tentang latar belakangmu seperti pendidikan terakhir atau pekerjaan sebelumnya)
+[//]: # (latar belakang kuliah di Binus jurusan SI, masih belum bisa coding. Sebelumnya pernah bekerja di bidang HRD di perusahaan automotive.)
 ## Latar Belakang
 
-[//]: # (Motivasi apa yang mendorongmu untuk ikut program coding bootcamp di Hacktiv8?)
+[//]: # (Harus mengikuti perkembangan teknologi kalau mau survive)
 ## Motivasi
 
-[//]: # (Beri tahu kami, apa yang ingin kamu dapatkan di Hacktiv8 dan apa yang ingin kamu capai setelah lulus dari sini?)
+[//]: # (Karir yang baik dan bisa menjadi developer yang explore untuk berkembang dengan mandiri)
 ## Ekspektasi
 
-[//]: # (Apakah ada hal lain yang ingin disampaikan? Bila ada, kamu bebas untuk menuliskannya)
+[//]: # (---)

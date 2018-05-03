@@ -4,7 +4,9 @@
 baru lulus kuliah
 dari universitas peli
 
-
+blob
+get me out
+woof woof
 
 
 
